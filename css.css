@@ -1,0 +1,9 @@
+.body {
+  font: normal 20px/normal "ubuntu-mono", Helvetica, sans-serif;
+}
+.inputWidth {
+  width: 48%
+}
+.maxWidth {
+  width: 96%
+}
